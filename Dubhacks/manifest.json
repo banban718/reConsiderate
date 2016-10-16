@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Think Again/Reconsiderate",
-  "description": "This extension creates wall between you and your evil thoughts.",
+  "name": "ReConsiderate",
+  "description": "ReConsiderate analyzes text that users input (via email, social media, etc) and when the message seems to have a negative connotation toward others, a message will pop up to remind the user to reflect on the meaning of the message and whether this is the message that they would like to delivered.",
   "version": "1.0",
 
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "Thinking_Face_Emoji.png",
     "default_popup": "popup.html"
   },
   "permissions": [
