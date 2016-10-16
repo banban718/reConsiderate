@@ -12,7 +12,7 @@ ReConsiderate analyzes text that users input (via email, social media, etc) and 
 
 Google Cloud Natural Language API is used to evaluate the structure and meaning of the text that user’s inputted and it will provide a sentiment range between -1.0 and 1.0. Sentiment range near -1.0 indicates text that may deliver negative (harassment, hurtful, harmful, etc.) feelings toward their audience while sentiment near the 1.0 range reflects texts that are more on the positive (excitement, joy, etc.) side. 
 
-<img src="http://images.flatworldknowledge.com/wrenchorgcomm-27115/wrenchorgcomm-27115-fig094.jpg" width="40" height="40">
+<img src="http://images.flatworldknowledge.com/wrenchorgcomm-27115/wrenchorgcomm-27115-fig094.jpg">
 
 
 ## Team Members
