@@ -1,10 +1,8 @@
-# reConsiderate
+# reConsiderate - Gives users a second chance
 
 DubHacks2016!!
 
 ## Purpose
-
-Gives users a second chance
 
 ReConsiderate is a Google Extension that aimed to reduce online harassment. 
 
