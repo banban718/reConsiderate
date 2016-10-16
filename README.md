@@ -32,7 +32,7 @@ Our team is comprised of:
 ## Technologies
 
 ![Screenshot of Application](google.png "Google")
-<img src="https://www.twilio.com/blog/wp-content/uploads/2013/04/01-digital_google_cloud_platform_logo_lockup-01-1.png" width="60" height="40">
+<img src="https://www.twilio.com/blog/wp-content/uploads/2013/04/01-digital_google_cloud_platform_logo_lockup-01-1.png">
 
 <a href="https://cloud.google.com/natural-language/">Google Cloud Natural Language API</a>
 
