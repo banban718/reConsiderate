@@ -17,10 +17,13 @@ Our team is comprised of:
 
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
 - [@jwcruz8482](https://github.com/jcruz8482) - UW Computer Engineering Student (Jeremy Cruz)
-- [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
+- [@beckychan92](https://github.com/beckychan92) - UC Berkeley (Becky Chan)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
 
 ## Technologies
 
 ![Screenshot of Application](google.png "Google")
+
+## Icon
+http://blog.draperinc.com/wp-content/uploads/2016/04/Thinking_Face_Emoji.png
