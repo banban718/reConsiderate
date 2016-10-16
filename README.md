@@ -24,6 +24,7 @@ Our team is comprised of:
 ## Technologies
 
 ![Screenshot of Application](google.png "Google")
+<a href="https://cloud.google.com/natural-language/">Google Cloud Natural Language API</a>
 
 ## Icon
 
