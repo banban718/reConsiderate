@@ -2,7 +2,11 @@
   "manifest_version": 2,
 
   "name": "ReConsiderate",
-  "description": "ReConsiderate analyzes text that users input (via email, social media, etc) and when the message seems to have a negative connotation toward others, a message will pop up to remind the user to reflect on the meaning of the message and whether this is the message that they would like to delivered.",
+  "description": "ReConsiderate analyzes text that users input (via email,
+  social media, etc) and when the message seems to have a negative connotation
+  toward others, a message will pop up to remind the user to reflect on the
+  meaning of the message and whether this is what that they would like to
+  deliver.",
   "version": "1.0",
 
   "browser_action": {
@@ -17,7 +21,25 @@
       "js": [
         "JS/input.js"
       ]
-  }],
+  }, {
+    "matches": [
+      "https://www.google.com/*", "http://www.google.com/*"
+    ],
+    "run_at": "document_end",
+    "js": [
+      "JS/google.js"
+    ]
+  }, {
+    "matches": [
+      "https://facebook.com/*", "http://www.facebook.com/*",
+      "https://www.messenger.com/*", "http://www.messenger.com/*"
+    ],
+    "run_at": "document_end",
+    "js": [
+      "JS/facebook.js"
+    ]
+  }
+],
   "permissions": [
     "activeTab", "storage"
   ]
