@@ -27,6 +27,5 @@ Our team is comprised of:
 
 <a href="https://cloud.google.com/natural-language/">Google Cloud Natural Language API</a>
 
-## Icon
-
+## Chrome Extension Icon
 <img src="http://blog.draperinc.com/wp-content/uploads/2016/04/Thinking_Face_Emoji.png" width="40" height="40">
