@@ -26,4 +26,5 @@ Our team is comprised of:
 ![Screenshot of Application](google.png "Google")
 
 ## Icon
-http://blog.draperinc.com/wp-content/uploads/2016/04/Thinking_Face_Emoji.png
+<img src="http://blog.draperinc.com/wp-content/uploads/2016/04/Thinking_Face_Emoji.png" />
+
