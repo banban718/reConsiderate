@@ -9,13 +9,7 @@
  *   is found.
  */
 
-// When the user types in div, open the popup
-function myFunction() {
-    var popup = document.getElementById('myPopup');
-    popup.classList.toggle('show');
-}
-
-//console.log("Popup!");
+console.log("Popup!");
 // function getCurrentTabUrl(callback) {
 //   // Query filter to be passed to chrome.tabs.query - see
 //   // https://developer.chrome.com/extensions/tabs#method-query
