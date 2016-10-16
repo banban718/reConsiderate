@@ -30,8 +30,6 @@ Our team is comprised of:
 - [@NeelMohapatra](https://github.com/NeelMohapatra) - UWT Student (Swojit Mohapatra)
 
 ## Technologies
-
-![Screenshot of Application](google.png "Google")
 <img src="https://www.twilio.com/blog/wp-content/uploads/2013/04/01-digital_google_cloud_platform_logo_lockup-01-1.png">
 
 <a href="https://cloud.google.com/natural-language/">Google Cloud Natural Language API</a>
