@@ -16,7 +16,7 @@ ReConsiderate analyzes text that users input (via email, social media, etc) and 
 Our team is comprised of:
 
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
-- [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
+- [@jwcruz8482](https://github.com/jcruz8482) - UW Computer Engineering Student (Jeremy Cruz)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
