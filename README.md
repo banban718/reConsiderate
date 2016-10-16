@@ -8,12 +8,13 @@ Gives users a second chance
 
 ReConsiderate is a Google Extension that aimed to reduce online harassment. 
 
-ReConsiderate analyzes text that users input (via email, social media, etc) and when the message seems to have a negative connotation toward others, a message will pop up to remind the user to reflect on the meaning of the message and whether this is the message that they would like to delivered. 
+ReConsiderate analyzes text that users input (via email, social media, etc) and when the message seems to carry a negative connotation toward others, a message will pop up to remind the user to reflect on the meaning of the message and whether this is the message that they would like to be delivered. 
 
-Google Cloud Natural Language API is used to evaluate the structure and meaning of the text that user’s inputted and it will provide a sentiment range between -1.0 and 1.0. Sentiment range near -1.0 indicates text that may deliver negative (harassment, hurtful, harmful, etc.) feelings toward their audience while sentiment near the 1.0 range reflects texts that are more on the positive (excitement, joy, etc.) side. 
+<a href="https://cloud.google.com/natural-language/">Google Cloud Natural Language API</a> is used to evaluate the structure and meaning of the text that user’s inputted and it will provide a sentiment range between -1.0 and 1.0. 
 
 <img src="http://images.flatworldknowledge.com/wrenchorgcomm-27115/wrenchorgcomm-27115-fig094.jpg">
 
+Sentiment near the -1.0 range indicates text that may deliver negative (harassment, hurtful, harmful, etc.) feelings toward their audience while sentiment near the 1.0 range reflects texts that create positive (excitement, joy, etc.) meanings. 
 
 ## Team Members
 
