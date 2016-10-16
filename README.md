@@ -23,7 +23,7 @@ ReConsiderate acts as a mediator by delivering positives notes that will allow t
 
 Our team is comprised of:
 
-- [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
+- [@midoriww](https://github.com/midoriww) - UWB Software Engineering Student (Midori Williams)
 - [@jwcruz8482](https://github.com/jcruz8482) - UW Computer Engineering Student (Jeremy Cruz)
 - [@beckychan92](https://github.com/beckychan92) - UC Berkeley (Becky Chan)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
