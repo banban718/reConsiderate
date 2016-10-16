@@ -38,6 +38,14 @@
     "js": [
       "JS/facebook.js"
     ]
+  }, {
+    "matches": [
+      "https://twitter.com/*", "https://www.twitter.com/*"
+    ],
+    "run_at": "document_end",
+    "js": [
+      "JS/twitter.js"
+    ]
   }
 ],
   "permissions": [

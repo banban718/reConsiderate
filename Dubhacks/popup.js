@@ -8,7 +8,7 @@
  * @param {function(string)} callback - called when the URL of the current tab
  *   is found.
  */
-console.log("Hello World!");
+console.log("Popup!");
 // function getCurrentTabUrl(callback) {
 //   // Query filter to be passed to chrome.tabs.query - see
 //   // https://developer.chrome.com/extensions/tabs#method-query
@@ -96,9 +96,9 @@ console.log("Hello World!");
 // function renderStatus(statusText) {
 //   document.getElementById('status').textContent = statusText;
 // }
-document.addEventListener('DOMContentLoaded', function() {
-    chrome.tabs.executeScript(null, {file: 'custom.js'});
-  });
+// document.addEventListener('DOMContentLoaded', function() {
+//     chrome.tabs.executeScript(null, {file: 'custom.js'});
+//   });
   // getCurrentTabUrl(function(url) {
   //   // Put the image URL in Google search.
   //   renderStatus('Performing Google Image search for ' + url);
