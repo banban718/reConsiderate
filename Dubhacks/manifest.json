@@ -6,7 +6,7 @@
   "version": "1.0",
 
   "browser_action": {
-    "default_icon": "Thinking_Face_Emoji.png",
+    "default_icon": "images/Thinking_Face_Emoji.png",
     "default_popup": "popup.html"
   },
   "permissions": [
