@@ -27,7 +27,7 @@ Our team is comprised of:
 - [@jwcruz8482](https://github.com/jcruz8482) - UW Computer Engineering Student (Jeremy Cruz)
 - [@beckychan92](https://github.com/beckychan92) - UC Berkeley (Becky Chan)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
-- [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
+- [@NeelMohapatra](https://github.com/NeelMohapatra) - UWT Student (Swojit Mohapatra)
 
 ## Technologies
 
