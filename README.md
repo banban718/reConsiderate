@@ -27,7 +27,7 @@ Our team is comprised of:
 - [@jwcruz8482](https://github.com/jcruz8482) - UW Computer Engineering Student (Jeremy Cruz)
 - [@beckychan92](https://github.com/beckychan92) - UC Berkeley (Becky Chan)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
-- [@NeelMohapatra](https://github.com/NeelMohapatra) - UWT Student (Swojit Mohapatra)
+- [@NeelMohapatra](https://github.com/NeelMohapatra) - UW CS (Swojit Mohapatra)
 
 ## Technologies
 <img src="https://www.twilio.com/blog/wp-content/uploads/2013/04/01-digital_google_cloud_platform_logo_lockup-01-1.png">
