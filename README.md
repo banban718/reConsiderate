@@ -25,7 +25,7 @@ Our team is comprised of:
 
 - [@midoriww](https://github.com/midoriww) - UWB Software Engineering Student (Midori Williams)
 - [@jwcruz8482](https://github.com/jcruz8482) - UW Computer Engineering Student (Jeremy Cruz)
-- [@beckychan92](https://github.com/beckychan92) - UC Berkeley (Becky Chan)
+- [@chanbecky](https://github.com/chanbecky) - UC Berkeley (Becky Chan)
 - [@Azoni](https://github.com/azoni) - UWT Student (Charlton Smith)
 - [@NeelMohapatra](https://github.com/NeelMohapatra) - UW CS (Swojit Mohapatra)
 
